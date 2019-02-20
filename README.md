@@ -1,5 +1,11 @@
 # Ruby on Rails with ELK stack sample app
+2019-2-20   
 
-This is just a guide to connect an existing Rails app to an ELK Stack (Elasticsearch, Logstash, Kibana) on Docker.
+### How to run
+```
+  docker-compose up --build
+```
+Visit port `5601` for Kibana     
 
-**NOTE: In this repository are only the essential files that need to be created or changed. Copy and paste into your app.
+You can change Ruby on Rails source code however you want, to output some log.    
+and watch it in Kibana
