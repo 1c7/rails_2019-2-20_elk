@@ -1,7 +1,8 @@
 # Sample app: Logging solution for Ruby on Rails + Docker + ELK
 2019-2-20   
 This example show you how to do logging with `Ruby on Rails` + `Docker` + `ELK`
-(so you can use it in production)
+
+Note: I haven't use this in production yet. I am also learning how to properly do it.  
 
 ## How to run
 ### Step 1:  
@@ -23,6 +24,6 @@ You can change Ruby on Rails source code however you want,
 to output some log.    
 and watch it in Kibana
 
-## Thanks
+## Huge Thanks to
 https://github.com/hugodias/rails-elk-stack    
-This example Rails app is base on this.    
+This example Rails app is base on this repo.    
