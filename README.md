@@ -22,14 +22,16 @@ docker-compose up --build
 ```
 ### Step 2:  
 Visit `http://localhost:3000/test/index`   
+![Kibana screenshot](./README/3000.png)
 
 It would output some log.   
 (code is in `app/controllers/test_controller.rb`)    
+![Kibana screenshot](./README/code.png)
 
 ### Step 3:  
 Visit `http://localhost:5601`  
 for Kibana     
-![Kibana screenshot](./README/kibana.jpg)
+![Kibana screenshot](./README/kibana2.jpg)
 
 
 ### Note
