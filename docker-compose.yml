@@ -67,9 +67,7 @@ services:
 
 volumes:
   database:
-  legacy_database:
 
 networks:
-
   elk:
     driver: bridge
